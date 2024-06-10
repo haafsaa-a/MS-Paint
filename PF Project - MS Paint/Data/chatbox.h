@@ -1,0 +1,1 @@
+void chatbox(char color, char symbol, int size);
